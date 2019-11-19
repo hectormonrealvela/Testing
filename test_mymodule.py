@@ -52,6 +52,7 @@ def test():
     x = set(lst)
 
     print(x)
+    print("testestestest"
 
 
 
